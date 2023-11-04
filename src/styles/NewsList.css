@@ -1,0 +1,67 @@
+.news-list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.article-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  margin: 0 5px;
+  padding: 10px;
+}
+
+.article-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.clicked {
+  transform: scale(1.05);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+  max-width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.card-description {
+  margin-top: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Styles for the translation button */
+.translation-button {
+  font-size: 2em;
+}
+.translation-icon {
+  font-size: 8em;
+}
+
+.cool-title {
+  background: linear-gradient(135deg, #f06, #0cf);
+  color: #fff;
+  padding: 20px;
+  border-radius: 20% 50% 50% 20% / 30% 40% 60% 70%;
+  text-align: center;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,306 @@
+{
+  "status": "ok",
+  "totalResults": 482,
+  "articles": [
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Elizabeth Lopatto",
+      "title": "Closing time for Sam Bankman-Fried",
+      "description": "Attorneys made closing arguments in Sam Bankman-Fried’s trial for fraud over the collapse of crypto exchange FTX.",
+      "url": "https://www.theverge.com/2023/11/1/23942828/sam-bankman-fried-trial-closing-arguments",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3ZA3-_oNGTLH4w71Yiby5rVY670=/0x0:2040x1360/1200x628/filters:focal(719x276:720x277)/cdn.vox-cdn.com/uploads/chorus_asset/file/25018594/23681_SBF_Trial_Stock_18_CVirginia.jpg",
+      "publishedAt": "2023-11-02T00:24:54Z",
+      "content": "Smoke ‘em if you’ve got ‘em. | Photo Illustration by Cath Virginia / The Verge | Photos by Michael M. Santiago, Bloomberg, Klmax, Whyframestudio, Yevgen Romanenko, Pixhook, Peter Dazeley, Jimkruger, … [+6586 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "TP-Link’s teeny-tiny security camera offers a lot for very little",
+      "description": "The Tapo C120 is a capable $40 2K indoor / outdoor wired camera with local storage, built-in spotlights, and free pet, person, and vehicle detection.",
+      "url": "https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YQ_cGzdWO7tpTtNFeO1KkevrAPI=/0x0:7008x4672/1200x628/filters:focal(4940x1928:4941x1929)/cdn.vox-cdn.com/uploads/chorus_asset/file/25048577/DSC9408.jpg",
+      "publishedAt": "2023-11-01T16:14:35Z",
+      "content": "TP-Links teeny-tiny security camera offers a lot for very little\r\nTP-Links teeny-tiny security camera offers a lot for very little\r\n / The Tapo C120 is a versatile indoor / outdoor wired camera that … [+2748 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Tom Warren",
+      "title": "Microsoft’s new AI-powered Office assistant is here — if you’ve got $9,000 and 300 friends",
+      "description": "Microsoft is quietly launching its Microsoft 365 Copilot. The AI-powered assistant promises to overhaul how Office documents are created, but not many businesses can use it yet.",
+      "url": "https://www.theverge.com/2023/11/1/23942155/microsoft-365-copilot-ai-office-documents-launch-business-enterprise-pricing-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/us3C3NVbjWs237WlxrGoBjQflZI=/0x0:1105x675/1200x628/filters:focal(553x338:554x339)/cdn.vox-cdn.com/uploads/chorus_asset/file/24794375/M365Copilot_HeroBanner_Apps_BLOG_FEATURE.jpg",
+      "publishedAt": "2023-11-01T17:54:58Z",
+      "content": "Microsofts new AI-powered Office assistant is here if youve got $9,000 and 300 friends\r\nMicrosofts new AI-powered Office assistant is here if youve got $9,000 and 300 friends\r\n / Microsoft 365 Copilo… [+2805 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "The Verge Staff",
+      "title": "The Verge’s Guide to Black Friday 2023",
+      "description": "Black Friday and Cyber Monday are nearly here. Thankfully, we’re rounding up all the deals, news, and money-saving tips you need to know about both shopping events.",
+      "url": "https://www.theverge.com/23939216/black-friday-guide-cyber-monday-tech-gadgets-2023",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2gghEXdq__ZD-DiPbYPRlidxWzg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25045051/236878_BLACK_FRIDAY_PACKAGE_AFernandez.jpg",
+      "publishedAt": "2023-11-01T18:00:00Z",
+      "content": "Were here to help you make the most of whats quickly become a monthlong celebration of deals and discounts.\r\nLets face it Black Friday is no longer reserved for the day following Thanksgiving. What w… [+1702 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Chris Welch",
+      "title": "Max is taking 4K away from its legacy ad-free subscribers",
+      "description": "Customers who transitioned from HBO Max to Max while on the ad-free plan were able to enjoy 4K streaming for six months, but now they’ll need to be on the Ultimate Tier.",
+      "url": "https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cGOQcjovlAMXQOQyb6Gb-8BPLKY=/0x0:3001x2000/1200x628/filters:focal(1501x1000:1502x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24673901/STK_MAX_001_WJoel.png",
+      "publishedAt": "2023-11-02T19:17:02Z",
+      "content": "Max is taking 4K away from its legacy ad-free subscribers\r\nMax is taking 4K away from its legacy ad-free subscribers\r\n / If you were still enjoying the perks of your old HBO Max plan, get ready for s… [+2008 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Richard Lawler",
+      "title": "After Starfield’s shaky launch, it’s going to beta test the next patch soon",
+      "description": "Starfield PC players can enter a Steam beta program to try out the update with support for Nvidia’s DLSS 3 upscaling technology next week, while support for AMD FSR3 tech will have to wait for a future update.",
+      "url": "https://www.theverge.com/2023/11/1/23942435/starfield-dlss-3-pc-update-steam-beta",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5TTvkCcSEblXs-zMzF5SKMGcbFw=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24548947/Starfield__Official_Gameplay_Reveal_____Starfield__Official_Gameplay_Reveal_2023_3_30_154520.999_1440p_streamshot.png",
+      "publishedAt": "2023-11-01T20:41:17Z",
+      "content": "Starfields DLSS 3 support is coming in a beta patch soon\r\nStarfields DLSS 3 support is coming in a beta patch soon\r\n / PC gamers can try out the official Starfield DLSS patch with support for Nvidias… [+2257 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Subaru is adopting Tesla’s EV charging port as holdout numbers dwindle",
+      "description": "Subaru has announced that it will adopt the North American Charging Standard starting in 2025. It’s the latest carmaker to implement the NACS port popularized by Tesla.",
+      "url": "https://www.theverge.com/2023/11/1/23942270/subaru-tesla-ev-charging-port-nacs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/un-7lAs8_Fo9K3_1AA4hUGvYrm4=/0x0:8040x5363/1200x628/filters:focal(3081x3791:3082x3792)/cdn.vox-cdn.com/uploads/chorus_asset/file/25050542/2023_Subaru_Solterra_24.jpg",
+      "publishedAt": "2023-11-01T19:07:19Z",
+      "content": "Subaru is adopting Teslas EV charging port as holdout numbers dwindle\r\nSubaru is adopting Teslas EV charging port as holdout numbers dwindle\r\n / Subaru has announced that it will implement the North … [+1467 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Tom Warren",
+      "title": "Microsoft employees aren’t happy that they’re losing free Xbox Game Pass Ultimate",
+      "description": "Microsoft is removing a key Xbox Game Pass benefit from permanent employees. Xbox workers will still get Xbox Game Pass Ultimate for free, but everyone else will need to buy it.",
+      "url": "https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/OD6A4Oo4W1s-2o9J34_s1twqFO0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg",
+      "publishedAt": "2023-11-02T22:32:36Z",
+      "content": "Microsoft employees arent happy that theyre losing free Xbox Game Pass Ultimate\r\nMicrosoft employees arent happy that theyre losing free Xbox Game Pass Ultimate\r\n / Xbox employees will still get Game… [+2258 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "James Harden: Ten-time NBA All-Star guard joins LA Clippers from Philadelphia 76ers after strike",
+      "description": "Ten-time NBA All-Star guard James Harden completes move to the Los Angeles Clippers from the Philadelphia 76ers after a strike with his former club.",
+      "url": "https://www.bbc.co.uk/sport/basketball/67289875",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/2B0B/production/_131591011_gettyimages-1489292558.jpg",
+      "publishedAt": "2023-11-01T17:34:42Z",
+      "content": "Harden had not played for the 76ers this season\r\nJames Harden has completed a move to the Los Angeles Clippers from the Philadelphia 76ers.\r\nThe 10-time NBA All-Star guard, 33, has sat out the 76ers'… [+2568 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Ros Atkins on... Calls for a ceasefire in Gaza",
+      "description": "The BBC's analysis editor examines calls for a ceasefire or humanitarian pause between Israel and Hamas in Gaza.",
+      "url": "https://www.bbc.co.uk/news/av/world-middle-east-67304420",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A7A8/production/_131602924_p0gqftgg.jpg",
+      "publishedAt": "2023-11-02T19:36:48Z",
+      "content": "Israel has rejected global calls for a ceasefire in Gaza, while the United States has called for a \"pause\" in hostilities. \r\nIsrael has been bombing Gaza since the 7 October Hamas attacks that killed… [+194 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "When they called their mother, Hamas answered the phone",
+      "description": "Ditza Heiman, 84, is being held in Gaza and her daughter wants Israel to find a diplomatic solution.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67304340",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B748/production/_131602964_ditza.jpg",
+      "publishedAt": "2023-11-02T20:46:59Z",
+      "content": "Nearly four weeks have passed since Hamas kidnapped about 240 people into Gaza - among them is 84-year-old Ditza Heiman. \r\nWhen Ditza's daughter called her on 7 October, Hamas answered the phone.\r\n\"T… [+3227 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine war: Russia hits most settlements in one day, says Kyiv",
+      "description": "Some 118 towns and villages were struck in 24 hours, the most this year, Kyiv's interior minister says.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67283305",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D22/production/_131589886_avdiivka.jpg",
+      "publishedAt": "2023-11-01T16:23:37Z",
+      "content": "Russia bombarded 118 Ukrainian towns and villages in 24 hours, more than on any other day this year, says Ukrainian Interior Minister Ihor Klymenko.\r\nHe said 10 of Ukraine's 27 regions had come under… [+3952 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Emily Hampshire: Actress apologises for Depp and Heard costume",
+      "description": "The Schitt's Creek star dressed as Johnny Depp with a friend, who posed as his ex-wife Amber Heard.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-67296157",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6373/production/_131595452_gettyimages-1467521869-1.jpg",
+      "publishedAt": "2023-11-02T10:46:01Z",
+      "content": "Schitt's Creek actress Emily Hampshire has apologised for dressing up as Johnny Depp and Amber Heard with a friend for Halloween. \r\nHampshire, 42, told her Instagram followers she was \"sorry and asha… [+1503 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Iran prison blocks Nobel Peace Prize winner Narges Mohammadi's hospital care, family says",
+      "description": "Treatment for a heart condition is declined after Narges Mohammadi refused to wear a hijab.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67299512",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A99/production/_131598272_274865d6a199c2607cf9efbd49b9f8cf56dec72d.jpg",
+      "publishedAt": "2023-11-02T15:22:46Z",
+      "content": "Iranian prison authorities have blocked jailed Nobel Peace Prize winner Narges Mohammadi's hospital care after she refused to wear a hijab, relatives say.\r\nMs Mohammadi, 51, was refused a transfer fr… [+2198 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Zimbabwe's cholera crisis fuelled by chronic water shortages",
+      "description": "Wheelbarrows are carted around in search of community centres and churches willing to share water.",
+      "url": "https://www.bbc.co.uk/news/world-africa-67198511",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11936/production/_131509917_gettyimages-1171362725_afp976.jpg",
+      "publishedAt": "2023-11-01T00:40:45Z",
+      "content": "For months now, Zimbabwe has been battling to stem the spread of deadly cholera in its cities and villages because the country simply lacks clean water.\r\n\"If the water comes at all it's often dirty,\"… [+6972 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Israeli army says Gaza City completely encircled",
+      "description": "The Hamas-run health ministry in Gaza says more than 9,000 Palestinians have been killed.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67302206",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/122AA/production/_131601447_mediaitem131601443.jpg",
+      "publishedAt": "2023-11-02T19:35:48Z",
+      "content": "Israeli forces have encircled the Hamas stronghold of Gaza City, Israel's military says, as it continues its assault on the Gaza Strip.\r\nThe Israeli Defence Forces (IDF) said soldiers were engaged in… [+3195 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Tupac Shakur: Duane Davis pleads not guilty to murder",
+      "description": "Duane \"Keffe D\" Davis was arrested in September in connection with the 1996 drive-by shooting.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-67296859",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83E9/production/_131596733_e054bd8f54cbf6e7dfd91aee750a897973f983f5.jpg",
+      "publishedAt": "2023-11-02T17:26:24Z",
+      "content": "A former gang leader has pleaded not guilty to the 1996 murder of rapper Tupac Shakur.\r\nDuane \"Keffe D\" Davis, 60, entered the plea during an appearance at a Las Vegas court, and a lawyer was appoint… [+1311 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Day of the Dead: 'It's an offering to remember my mum'",
+      "description": "With food and marigold flowers, Mexico celebrates 'Día de los Muertos' on the first days of November.",
+      "url": "https://www.bbc.co.uk/news/av/world-latin-america-67292514",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7863/production/_131591803_p0gq7gfl.jpg",
+      "publishedAt": "2023-11-01T19:17:09Z",
+      "content": "With food and marigolds, Mexico celebrates the 'Día de los Muertos' on the first days of November. Families gather around the tombs of their loved ones to bring them the treats and objects they loved… [+22 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Migrants to Europe dying in gun battles and car crashes",
+      "description": "In the Western Balkans, smuggler gangs are engaging in deadly shootouts as migrant numbers keep rising.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67245358",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC9F/production/_131578284_254c3f78-95e9-41d0-a8e3-bec0947db611.jpg",
+      "publishedAt": "2023-11-02T00:07:51Z",
+      "content": "Lethal exchanges of gunfire between smugglers and fatal car crashes have made the migrant route through the Western Balkans into the EU even more treacherous in recent months. And yet the number of a… [+5958 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Why are fewer women using AI than men?",
+      "description": "The use of artificial intelligence appears to have a significant gender imbalance.",
+      "url": "https://www.bbc.co.uk/news/business-67217915",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8A05/production/_131533353_harriet_kelsall_portrait_2023-4landscape.jpg",
+      "publishedAt": "2023-11-02T00:06:14Z",
+      "content": "Popular artificial intelligence (AI) chatbot ChatGPT now has more than 180 million users, but jeweller Harriet Kelsall says it isn't for her.\r\nBeing dyslexic, she admits that using it might help impr… [+5469 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Criminals and sanctions-busters exploiting UK secrecy loophole",
+      "description": "Seychelles company linked to Putin’s inner circle exploited UK loophole for hundreds of firms, BBC finds.",
+      "url": "https://www.bbc.co.uk/news/uk-67276289",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5E5D/production/_131575142_offshore_secrets_promo_976.png",
+      "publishedAt": "2023-11-02T05:14:45Z",
+      "content": "An offshore firm helped create companies used by members of Vladimir Putin's inner circle, including one hiding the late mercenary boss Yevgeny Prigozhin's yacht, the BBC can reveal.\r\nSeychelles-base… [+12693 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Car crash leads to fireworks show on Canadian motorway",
+      "description": "An accident involving a lorry and a pickup truck led to an impromptu, hour-long pyrotechnics show.",
+      "url": "https://www.bbc.co.uk/news/av/world-us-canada-67303123",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D5E/production/_131601751_p0gqf5x2.jpg",
+      "publishedAt": "2023-11-02T16:59:18Z",
+      "content": "Car crash leads to fireworks show on motorway. Video, 00:00:26Car crash leads to fireworks show on motorway"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Strikes on south Gaza: BBC verifies attacks in areas of ‘safety’",
+      "description": "The BBC has analysed four strikes in south Gaza, where civilians were told to evacuate to.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67264703",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16C36/production/_131583239_bbc_verify_south_976_promo_only.jpg",
+      "publishedAt": "2023-11-01T00:21:19Z",
+      "content": "Since the Israeli military issued the first of several instructions for civilians to evacuate north Gaza, hundreds of thousands of Gazans have moved to the south of the strip. But the south has conti… [+7106 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Matthew Perry was in a good place in recent conversation, Friends creator says",
+      "description": "Marta Kauffman says Friends star Matthew Perry was happy and chipper when they last spoke, two weeks ago.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-67283603",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/950E/production/_131585183_gettyimages-75851979.jpg",
+      "publishedAt": "2023-11-01T10:19:42Z",
+      "content": "Matthew Perry was happy and chipper when Friends co-creator Marta Kauffman spoke to him two weeks ago, she says.\r\nTributes have been paid to Perry, who played Chandler in the TV sitcom, since his dea… [+2360 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Apple sales dip again despite iPhone boost",
+      "description": "Apple says that sales have dropped for the fourth quarter in a row despite a boost from iPhones.",
+      "url": "https://www.bbc.co.uk/news/business-67304260",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E5CE/production/_131603885_gettyimages-1696213579-1.jpg",
+      "publishedAt": "2023-11-02T22:57:47Z",
+      "content": "Apple sales have continued to fall, despite strong demand for its iPhones and services like streaming platform Apple TV+.\r\nThe tech giant says revenues dipped 1% to $89.5bn (£73.3bn) in the three mon… [+2176 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Israel Gaza: Children must be off limits, says father of abducted kids",
+      "description": "\"How can you hate a child?\" asks Yoni Asher, whose two-year-old and four-year-old were taken by Hamas.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67292422",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CBA1/production/_131592125_pic-3.jpg",
+      "publishedAt": "2023-11-02T00:30:42Z",
+      "content": "In the garden of his home in central Israel, amid the palm trees dappled in the morning sun, Yoni Asher shows me a video on his phone.\r\nIt's of his two small girls, sitting on a bed. They're singing … [+4273 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Disney to buy remaining 33% stake in streaming service Hulu",
+      "description": "In a widely expected move, Disney says it will buy the remaining 33% stake from TV giant Comcast.",
+      "url": "https://www.bbc.co.uk/news/business-67291898",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF2F/production/_131593035_gettyimages-1234063436.jpg",
+      "publishedAt": "2023-11-01T23:12:03Z",
+      "content": "Disney has announced that it will buy the remaining stake in streaming service Hulu, in a widely expected move.\r\nThe company said on Wednesday it would acquire the 33% stake it does not own from TV g… [+2845 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Agoa Forum: Has the US trade pact benefited Africa?",
+      "description": "The future of what was billed as a game-changing pact between Africa and the US is in the balance.",
+      "url": "https://www.bbc.co.uk/news/world-africa-67284812",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C4F/production/_131591953_gettyimages-463250444_afp976.jpg",
+      "publishedAt": "2023-11-02T00:22:59Z",
+      "content": "The future of what was billed as a game-changing trade agreement between Africa and the US is up for discussion in the South African city of Johannesburg over the next few days, with calls for it to … [+7811 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Bolivia severs diplomatic ties with Israel over Gaza war",
+      "description": "The country's president accuses Israel of committing war crimes in Gaza and calls for a ceasefire.",
+      "url": "https://www.bbc.co.uk/news/world-latin-america-67281584",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/379E/production/_131583241_1fdbe5881a6580cc45accfc19fba60be6f3366880_567_6652_37431000x563.jpg",
+      "publishedAt": "2023-11-01T04:45:12Z",
+      "content": "Bolivia has cut diplomatic ties with Israel over what it describes as \"aggressive and disproportionate\" military actions in Gaza.\r\nDeputy Foreign Minister Freddy Mamani said Bolivia called for a ceas… [+1910 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Channing Tatum and Zoe Kravitz engaged - US media",
+      "description": "The Magic Mike actor and Batman actress, who have been dating for two years, are to get married.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-67281208",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E16/production/_131583237_gettyimages-1340308132.jpg",
+      "publishedAt": "2023-11-01T00:00:18Z",
+      "content": "Channing Tatum and Zoe Kravitz have become engaged, according to US media reports. \r\nThe Magic Mike actor, 43, and Batman actress, 34, have been dating for two years since reportedly working together… [+1392 chars]"
+    }
+  ]
+}
