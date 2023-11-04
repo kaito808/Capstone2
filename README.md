@@ -50,3 +50,5 @@ I used News API (https://newsapi.org/) to get news articles, and store them in m
 Then I used translation API (https://libretranslate.com/) to translate all the original article information and store them to another database.
 This allows me to provide articles in users preferable language as each news article has one unique id regardless of the db. (Original db and Japanese db, same ids store the same news articles.)
 
+https://drive.google.com/file/d/1QIp8CqeJH-BVRGZ7E9if6H-dCtujM4_S/view?usp=drive_link
+https://drive.google.com/file/d/1KUoQBjK3S7i9APpTF2CDl30KnHGpklcg/view?usp=drive_link
