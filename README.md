@@ -1,6 +1,6 @@
 #SETUP
 
-node
+##node
 
 ```
 npm i
@@ -13,15 +13,18 @@ npm start
 ```
 
 #test
-check for express
+##check for express
 
 ```
 npm ls express
 npm install express
 ```
 
-run the test
+##run the test
 
 ```
 npm test
 ```
+
+----------------------------
+
